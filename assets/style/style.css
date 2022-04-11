@@ -91,6 +91,6 @@ div img {
   text-align: left;
   display: flex;
   justify-content: center;
-  line-height: 25px;
+  line-height: 16px;
   flex-direction: column;
 }
